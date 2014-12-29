@@ -1,5 +1,5 @@
 FROM tomcat:7-jre7
-MAINTAINER l@daume-web.eu
+MAINTAINER Leonard Daume <lenny@daume-web.eu>
 
 # upgrade & install
 RUN \
